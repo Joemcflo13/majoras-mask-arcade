@@ -1,0 +1,26 @@
+{
+    "image1": {
+        "data": "hwQNAA8AAAAAAAAAAAAAAAAAAODuAAAAAABQ7u7uAAAAAFde5e4ODgB3d07k7O4OcHd37s7P7g5wd1de5fzuAHd3V07k7u4Od3d37u7u7g53d1fl7u4MDHAHwO7uzgAAcAcAzMwMAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Deku Link"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "ZjQwMTBmMDAwZjAwMDIwMDAwMDAwMDc3MDcwMDAwMDAwMDcwNzc3Nzc3MDAwMDAwNzA3Nzc3NzcwNzAwMDAwMDc3Nzc3NzAwMDAwMDAwNzc3Nzc3MDcwMDAwMDA1NTc3NTU1NzBjMDAwMGUwZWVlZWVlZTUwYzAwZTA1ZWU0NDVlZWNlMDAwMGVlNDU1ZWU0ZWUwYzAwZTBlZWNlZWVlZWNlMDAwMGUwY2VjZmVlZWUwYzAwMDBlZWNlZWVlZTBjMDAwMDAwZWVlZWVlMGMwMDAwMDAwMGVlZWUwZTAwMDAwMDAwZWUwZWVlMGMwMDAwMDAwMDAwNzc3Nzc3MDcwMDAwMDA3Nzc3Nzc3NzA3MDAwMDcwNzc3Nzc3NzcwMDAwNzA3Nzc3Nzc3MDc3MDA1MDc1NTc3NWM1NzAwNzAwZWVlZWVlNWVjZTc3MDBlZTQ1NWVlNGVlMGMwMGUwNWVlNDQ1ZWVjZTAwMDBlZWNlZWVlZWVlMGMwMDAwY2VjZmVlZWVjZTAwMDBlMGNlZWVlZWNlMDAwMDAwZTBlZWVlY2UwMDAwMDAwMGUwZWVlZTAwMDAwMDAwMDBlMGUwMDAwMDAwMDAwMGVlMGVlZTBjMDAwMDAw",
+        "displayName": "Deku link ani2"
+    },
+    "anim2": {
+        "namespace": "myAnimations",
+        "id": "anim2",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDBmMDAwZjAwMDIwMDAwMDAwMDcwNzcwMDAwMDAwMDAwNzc3Nzc3MDcwMDAwMDA3Nzc3Nzc3NzAwMDAwMDcwNzc3NzA3MDAwMDAwNzA3Nzc3NzcwMDAwMDA1MDc1NTc3NWM1MDAwMDAwZWVlZWVlNWVjZTAwMDBlZTQ1NWVlNGVlMGMwMGUwNWVlNDQ1ZWVjZTAwMDBlZWVlZWNlZWVlMGMwMDAwZWVmY2VjZWVjZTAwMDBlMGVlZWNlZWNlMDAwMDAwZTBlZWVlY2UwMDAwMDAwMGUwZWVlZTAwMDAwMDAwZTBlZWUwY2UwMDAwMDAwMDAwMDA3NzA3MDAwMDAwMDA3MDc3Nzc3NzAwMDAwMDcwNzc3Nzc3NzcwMDAwNzA3Nzc3Nzc3MDA3MDA1MDc1NTc3NWM1NzcwMDAwZWVlZWVlNWVjZTA3MDBlZTQ1NWVlNGVlMGMwMGUwNWVlNDQ1ZWVjZTAwMDBlZWNlZWVlZWVlMGMwMDAwY2VjZmVlZWVjZTAwMDBlMGNlZWVlZWNlMDAwMDAwZTBlZWVlY2UwMDAwMDAwMGUwZWVlZTAwMDAwMDAwMDAwZTAwMGUwMDAwMDBlMGVlMDBlMGNlMDAwMDAw",
+        "displayName": "Deku link ani1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
